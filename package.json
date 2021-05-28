@@ -1,0 +1,20 @@
+{
+  "name": "book-note-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/sanity": "^0.9.4",
+    "@sanity/client": "^2.10.5",
+    "@sanity/image-url": "^0.140.22",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "sanity-blocks-vue-component": "^1.0.0"
+  },
+  "devDependencies": {}
+}
